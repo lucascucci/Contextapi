@@ -1,6 +1,9 @@
+import { usePeliContext } from "../../context/PeliContext";
 import ItemList from "../ItemList/ItemList"
 
-const ItemListContainer = ({data}) => {
+const ItemListContainer = () => {
+
+    const {data}= usePeliContext();
 
     return (
         <>

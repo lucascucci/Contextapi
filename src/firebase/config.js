@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyArzyln70pIR1LsZyxdfHDN_38HcGxK3OY",
-    authDomain: "peliculas-ea0cd.firebaseapp.com",
-    projectId: "peliculas-ea0cd",
-    storageBucket: "peliculas-ea0cd.appspot.com",
-    messagingSenderId: "252791251190",
-    appId: "1:252791251190:web:302f132c102b57792e0cd7"
+    apiKey: "AIzaSyC8kw-UeNCodqMQN7O7OoXU55mPVOvRKkQ",
+    authDomain: "peliculas1-4de51.firebaseapp.com",
+    projectId: "peliculas1-4de51",
+    storageBucket: "peliculas1-4de51.appspot.com",
+    messagingSenderId: "229395364539",
+    appId: "1:229395364539:web:8758c54a4d578bf0b1479e"
 };
 
 // Initialize Firebase
